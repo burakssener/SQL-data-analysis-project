@@ -79,4 +79,4 @@ ORDER BY Percent_Population_Vaccinated DESC;
 If you liked this project or want to discuss anything tech-related, feel free to connect with me:
 
 - 🌐 **Website**: [buraksener.com](https://buraksener.com)
-- 💼 **LinkedIn**: [Burak Şener](https://www.linkedin.com/in/buraksener)
+- 💼 **LinkedIn**: [Burak Sener](https://www.linkedin.com/in/burakssener)
